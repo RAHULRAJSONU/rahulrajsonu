@@ -1,16 +1,27 @@
-### Hi there 👋
+<a href="https://linkedin.com/in/srahulraj">
+  <img align="left" alt="Rahul Raj - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href="https://instagram.com/rahulraj_sonu">
+  <img align="left" alt="Rahul Raj - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+<a href="https://twitter.com/rahulraj_sonu">
+  <img align="left" alt="Rahul Raj - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
+<a href="https://facebook.com/rahulrajgpj">
+  <img align="left" alt="Rahul Raj - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
+</a>
+<br />
+<br />
 
-<!--
-**RAHULRAJSONU/rahulrajsonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software developer and passionate coder.
 
-Here are some ideas to get you started:
+Technologies:
+- Javascript, React, Angular, Vue, jQuery, PWA
+- Node, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also interested in:
+- Web Security  
+
+Cheers,  
+Rahul Raj  
+[srahulraj.wordpress.com](https://srahulraj.wordpress.com/)
