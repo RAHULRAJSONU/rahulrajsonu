@@ -16,11 +16,13 @@
 Full-Stack Software developer and passionate coder.
 
 Technologies:
+- Java, Node
 - Javascript, React, Angular, Vue, jQuery, PWA
-- Node, Java
 
 Also interested in:
-- Web Security  
+- Web Security
+- Software Architecture
+- Distributed System
 
 Cheers,  
 Rahul Raj  
