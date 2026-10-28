@@ -1,27 +1,97 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">Full Stack Developer and Architect. Specializing in Java with Spring Boot, and React, Angular. Passionate about building cloud-native applications following DDD</h3>
+<h1 align="center">Hi 👋, I'm Rahul Raj</h1>
+<h3 align="center">Principal Engineer · Distributed Systems · Cloud Architecture · AI Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrajsonu&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrajsonu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulrajsonu" alt="rahulrajsonu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/rahulrajsonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rahulrajsonu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahulrajsonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulrajsonu" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Principal%20MTS-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Based%20in-Noida%2C%20India-0e75b6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Noida, India" />
+  <img src="https://komarev.com/ghpvc/?username=rahulrajsonu&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulrajsonu&show_icons=true&locale=en&layout=compact" alt="rahulrajsonu" /></p>
+## 👨‍💻 About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulrajsonu&show_icons=true&locale=en" alt="rahulrajsonu" /></p>
+I'm a software engineer with **11+ years** of experience designing and building distributed systems, cloud-native platforms and AI-powered products. Today I work as a **Principal Member of Technical Staff at Oracle**, where I focus on architecture, system design and raising the engineering bar for the teams around me.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrajsonu&" alt="rahulrajsonu" /></p>
+I care about clean domain models (DDD), systems that stay reliable at scale, and shipping software that is a pleasure to operate.
+
+- 🔭 **Working on:** distributed systems, cloud architecture and applied AI / LLM engineering
+- 🤖 **Side project:** *Jarvis*, a local-first, open-source (Apache-2.0) voice assistant for Windows with a floating animated overlay, built on small local models with optional cloud LLMs
+- 🌱 **Always learning:** authorization at scale, agentic systems, and event-driven architecture
+- ✍️ **Beyond code:** I'm also an award-winning writer of romantic fiction
+- 💬 **Ask me about:** Java and Spring Boot, microservices, DDD, system design, cloud, and building with LLMs
+
+---
+
+## 🧰 Tech stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,bash&perline=10" alt="Languages" />
+</p>
+
+**Backend, frameworks and frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,graphql,react,angular&perline=10" alt="Frameworks" />
+</p>
+
+**Cloud, data and DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,kafka,jenkins,linux,git&perline=10" alt="Cloud and DevOps" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,elasticsearch,grafana,postman&perline=10" alt="Data and observability" />
+</p>
+
+---
+
+## 🚀 Featured projects
+
+| Project | What it is | Tech |
+| --- | --- | --- |
+| [**securex-ai**](https://github.com/RAHULRAJSONU/securex-ai) | A Spring Boot implementation of Zanzibar-style, relationship-based authorization | Java, Spring Boot |
+| [**smart-search**](https://github.com/RAHULRAJSONU/smart-search) | NLP-powered custom search service, a smarter take on Google-style search | Java, NLP |
+| [**OAuthServerSpringbootImpl**](https://github.com/RAHULRAJSONU/OAuthServerSpringbootImpl) | OAuth 2.0 authorization server built with Spring Boot | Java, Spring Security |
+| [**native-sql-helper**](https://github.com/RAHULRAJSONU/native-sql-helper) | Lightweight Java utility library for working with native SQL | Java |
+| [**springboot-sftp-integration**](https://github.com/RAHULRAJSONU/springboot-sftp-integration) | Accessing files over SFTP channels from Spring Boot | Java, Spring Integration |
+| [**ewallet**](https://github.com/RAHULRAJSONU/ewallet) | Personal finance manager | TypeScript |
+| **Jarvis** *(in progress)* | Local-first voice assistant with wake word, streaming chat and action logs | Python, local LLMs |
+
+Plus a growing library of reference implementations on concurrency, design patterns, Spring Security and data structures and algorithms in Java.
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulrajsonu&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrajsonu&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rahulrajsonu&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 📝 Writing
+
+I write about engineering and software architecture, and occasionally about stories.
+
+- [Blog](https://srahulraj.wordpress.com/)
+- [dev.to/rahulrajsonu](https://dev.to/rahulrajsonu)
+
+---
+
+## 🤝 Let's connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/rahulrajsonu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://dev.to/rahulrajsonu"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="https://srahulraj.wordpress.com/"><img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" /></a>
+  <a href="https://orcid.org/0009-0006-0406-8258"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+</p>
+
+<p align="center"><i>Thanks for stopping by. If something here is useful to you, a ⭐ on a repo is always appreciated.</i></p>
