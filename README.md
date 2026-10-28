@@ -78,7 +78,7 @@ My sweet spot is the space between a messy real-world problem and a production s
 
 ## ✍️ Beyond code
 
-I'm also an award-winning writer of romantic fiction. Storytelling keeps me sharp at what customer-facing engineering needs most: understanding people and explaining complex things clearly. I write at [my blog](https://srahulraj.wordpress.com/) and on [dev.to](https://dev.to/rahulrajsonu).
+I'm also an award-winning writer of romantic fiction. Storytelling keeps me sharp at what customer-facing engineering needs most: understanding people and explaining complex things clearly. I write at [my blog](https://srahulraj.wordpress.com/) on [dev.to](https://dev.to/rahulrajsonu). and on [substack](https://rahulrajsonu9.substack.com/)
 
 ---
 
